@@ -7,3 +7,9 @@ CREATE TABLE orders (
   product TEXT NOT NULL,
   quantity INT NOT NULL
 );
+
+-- INSERT INTO 
+--   orders (product, quantity)
+-- VALUES
+--   ('chair', 72),
+--   ('helmet' 555);
